@@ -1,0 +1,4 @@
+# https://codeup.kr/problem.php?id=6030
+
+n = ord(input())
+print(n)
