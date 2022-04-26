@@ -79,4 +79,8 @@ print( S )
 
 # 30
 
-string = 
+string = 'abcd'
+string.replce('b', 'B')
+print(string)
+
+# > abcd
